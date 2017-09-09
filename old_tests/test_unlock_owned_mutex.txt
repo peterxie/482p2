@@ -1,0 +1,2 @@
+parent thread has lock
+child thread running

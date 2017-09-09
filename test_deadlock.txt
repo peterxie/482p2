@@ -1,0 +1,3 @@
+parent thread acquired lock 1
+child thread acquired lock 2
+All CPUs suspended.  Exiting.

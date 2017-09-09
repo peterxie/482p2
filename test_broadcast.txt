@@ -1,0 +1,14 @@
+parent thread started
+child 0 started
+child 1 started
+child 2 started
+child 3 started
+child 4 started
+parent thread has lock
+parent thread finishing
+child 0 finishing
+child 1 finishing
+child 2 finishing
+child 3 finishing
+child 4 finishing
+All CPUs suspended.  Exiting.

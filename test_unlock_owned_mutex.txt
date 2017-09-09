@@ -1,0 +1,5 @@
+parent thread has lock
+child thread running
+Thread cannot unlock mutex it does not own.
+parent thread finishing
+All CPUs suspended.  Exiting.

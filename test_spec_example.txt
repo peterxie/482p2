@@ -1,0 +1,16 @@
+parent called with arg 100
+loop called with id child thread
+child thread:	0	0
+loop called with id parent thread
+parent thread:	0	0
+child thread:	1	1
+parent thread:	1	2
+child thread:	2	3
+parent thread:	2	4
+child thread:	3	5
+parent thread:	3	6
+child thread:	4	7
+parent thread:	4	8
+child thread:	5	9
+parent thread:	5	10
+All CPUs suspended.  Exiting.

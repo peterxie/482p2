@@ -1,0 +1,4 @@
+parent thread has lock
+parent thread finishing
+child thread has lock
+All CPUs suspended.  Exiting.

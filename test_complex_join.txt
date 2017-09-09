@@ -1,0 +1,10 @@
+real parent called with arg 100
+real parent returning, parent thread object destructing
+parent called with arg 1
+yielding thread
+child run with message test message, setting child_done = 1
+creating second child
+joining on finished child thread
+parent finishing
+child run with message child 2, setting child_done = 1
+All CPUs suspended.  Exiting.

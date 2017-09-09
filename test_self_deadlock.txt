@@ -1,0 +1,2 @@
+parent thread is about to run horrible code
+All CPUs suspended.  Exiting.
